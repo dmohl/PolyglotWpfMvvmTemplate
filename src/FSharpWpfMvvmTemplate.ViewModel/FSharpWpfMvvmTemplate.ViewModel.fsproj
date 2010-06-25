@@ -50,9 +50,19 @@
     <Compile Include="MainWindowViewModel.fs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FSharpIoC\FSharpIoC.fsproj">
+      <Name>FSharpIoC</Name>
+      <Project>{d2082633-68ca-4c7e-9cf7-7ca94cf86ace}</Project>
+      <Private>True</Private>
+    </ProjectReference>
     <ProjectReference Include="..\FSharpWpfMvvmTemplate.Model\FSharpWpfMvvmTemplate.Model.fsproj">
       <Name>FSharpWpfMvvmTemplate.Model</Name>
       <Project>{e3081f02-f50c-4923-984a-4d17bfe0dda8}</Project>
+      <Private>True</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\FSharpWpfMvvmTemplate.Repository\FSharpWpfMvvmTemplate.Repository.fsproj">
+      <Name>FSharpWpfMvvmTemplate.Repository</Name>
+      <Project>{6cd2c943-120b-4346-9340-a9cf6050fbf6}</Project>
       <Private>True</Private>
     </ProjectReference>
   </ItemGroup>

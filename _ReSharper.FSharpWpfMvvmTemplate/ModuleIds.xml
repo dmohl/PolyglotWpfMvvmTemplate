@@ -1,3 +1,4 @@
 <Modules>
-  <Module PersistentId="341B4C47-BDAB-4489-854C-68A0BFFDCECE" ModuleId="FSharpWpfMvvmTemplate" />
+  <Module PersistentId="172C187F-E7DC-42D3-BA6A-60C84D206C8F" ModuleId="WpfMvvmTemplate.View" />
+  <Module PersistentId="4AB285F0-F6B4-4343-ACBA-0E18AF2A5BE8" ModuleId="WpfMvvmTemplate.Repository" />
 </Modules>

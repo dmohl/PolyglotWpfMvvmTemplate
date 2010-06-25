@@ -1,0 +1,9 @@
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Repository.XML
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Repository.dll
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Repository.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Model.dll
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Model.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\bin\Debug\FSharpWpfMvvmTemplate.Model.xml
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\obj\Debug\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\obj\Debug\FSharpWpfMvvmTemplate.Repository.dll
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.Repository\obj\Debug\FSharpWpfMvvmTemplate.Repository.pdb

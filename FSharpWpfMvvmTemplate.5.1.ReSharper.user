@@ -9,47 +9,45 @@
   <RecentFiles>
     <RecentFiles>
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:RelayCommand.fs" caret="394" fromTop="9" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:MainWindow.xaml" caret="183" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ApplicationResources.xaml" caret="664" fromTop="0" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:MainWindowViewModel.fs" caret="197" fromTop="0" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ViewModelBase.fs" caret="510" fromTop="7" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:App.fs" caret="543" fromTop="4" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="1114" fromTop="10" />
       <File id="E3081F02-F50C-4923-984A-4D17BFE0DDA8/f:Expense.fs" caret="39" fromTop="0" />
       <File id="E3081F02-F50C-4923-984A-4D17BFE0DDA8/f:ExpenseReport.fs" caret="59" fromTop="1" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="1811" fromTop="1" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="0" fromTop="0" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="0" fromTop="0" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:MainWindow.xaml" caret="240" fromTop="2" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="614" fromTop="19" />
+      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="710" fromTop="0" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1203" fromTop="27" />
     </RecentFiles>
     <RecentEdits>
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="2130" fromTop="3" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="3588" fromTop="3" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="2462" fromTop="1" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ApplicationResources.xaml" caret="259" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:App.fs" caret="214" fromTop="8" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="2935" fromTop="7" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:MainWindowViewModel.fs" caret="225" fromTop="8" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="774" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="3952" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="4258" fromTop="0" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="3336" fromTop="0" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="1" fromTop="0" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="4438" fromTop="0" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:MainWindow.xaml" caret="183" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="3005" fromTop="2" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="4950" fromTop="4" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="1770" fromTop="1" />
       <File id="E3081F02-F50C-4923-984A-4D17BFE0DDA8/f:ExpenseReport.fs" caret="59" fromTop="1" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="1039" fromTop="11" />
+      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="976" fromTop="11" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="577" fromTop="7" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ViewModelBase.fs" caret="241" fromTop="2" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ViewModelBase.fs" caret="510" fromTop="7" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="2868" fromTop="5" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="2791" fromTop="8" />
+      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="1297" fromTop="8" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="454" fromTop="3" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="795" fromTop="3" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="2142" fromTop="0" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="3688" fromTop="1" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="2346" fromTop="3" />
-      <File id="30597BE9-08F8-4832-8AB7-009C00A6A2F2/f:ExpenseItHome.xaml" caret="1811" fromTop="1" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="458" fromTop="3" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="4918" fromTop="9" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="2114" fromTop="34" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="770" fromTop="34" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="229" fromTop="4" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="187" fromTop="6" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="587" fromTop="19" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:MainWindow.xaml" caret="240" fromTop="2" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="39" fromTop="0" />
+      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="976" fromTop="0" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1464" fromTop="33" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="126" fromTop="4" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1464" fromTop="35" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1254" fromTop="24" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1464" fromTop="29" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="1210" fromTop="27" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="762" fromTop="18" />
+      <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="762" fromTop="18" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
