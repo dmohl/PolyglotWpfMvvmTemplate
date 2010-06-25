@@ -1,0 +1,25 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>FSharpWpfMvvmTemplate.App</Name>
+    <Description>F# WPF MVVM Application</Description>
+    <ProjectType>FSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>FSharpWpfMvvmTemplate.App</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FSharpWpfMvvmTemplate.App.fsproj" File="FSharpWpfMvvmTemplate.App.fsproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="App.fs">App.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ApplicationResources.xaml">ApplicationResources.xaml</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="MainWindow.xaml">MainWindow.xaml</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="watermark.png">watermark.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ExpenseItHome.xaml">ExpenseItHome.xaml</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

@@ -1,0 +1,9 @@
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.ViewModel.XML
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.ViewModel.dll
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.ViewModel.pdb
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\obj\Debug\FSharpWpfMvvmTemplate.ViewModel.dll
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\obj\Debug\FSharpWpfMvvmTemplate.ViewModel.pdb
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.Model.dll
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.Model.pdb
+C:\git\FSharpWpfMvvmTemplate\src\FSharpWpfMvvmTemplate.ViewModel\bin\Debug\FSharpWpfMvvmTemplate.Model.xml

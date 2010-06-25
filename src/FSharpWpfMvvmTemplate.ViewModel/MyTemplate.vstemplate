@@ -1,0 +1,24 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>FSharpWpfMvvmTemplate.ViewModel</Name>
+    <Description>F# WPF MVVM ViewModel</Description>
+    <ProjectType>FSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>FSharpWpfMvvmTemplate.ViewModel</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="FSharpWpfMvvmTemplate.ViewModel.fsproj" File="FSharpWpfMvvmTemplate.ViewModel.fsproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="RelayCommand.fs">RelayCommand.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ViewModelBase.fs">ViewModelBase.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseItHomeViewModel.fs">ExpenseItHomeViewModel.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="MainWindowViewModel.fs">MainWindowViewModel.fs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
