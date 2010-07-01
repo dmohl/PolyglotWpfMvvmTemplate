@@ -1,0 +1,7 @@
+C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ProjectTemplates\PolyglotWpfMvvm.zip
+C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\PolyglotWpfMvvm.vsix
+C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\extension.vsixmanifest
+C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\PolyglotWpfMvvm.dll
+C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\PolyglotWpfMvvm.pdb
+C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\extension.vsixmanifest
