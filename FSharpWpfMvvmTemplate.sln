@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmTemplate.View", "src
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWpfMvvmTemplate.Repository", "src\FSharpWpfMvvmTemplate.Repository\FSharpWpfMvvmTemplate.Repository.fsproj", "{6CD2C943-120B-4346-9340-A9CF6050FBF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolyglotWpfMvvmTemplateVSIX", "PolyglotWpfMvvmTemplateVSIX\PolyglotWpfMvvmTemplateVSIX.csproj", "{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,16 @@ Global
 		{6CD2C943-120B-4346-9340-A9CF6050FBF6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{6CD2C943-120B-4346-9340-A9CF6050FBF6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{6CD2C943-120B-4346-9340-A9CF6050FBF6}.Release|x86.ActiveCfg = Release|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
