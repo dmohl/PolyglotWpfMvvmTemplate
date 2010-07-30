@@ -1,0 +1,6 @@
+C:\git\PolyglotWpfMvvmTemplate\src\Model\bin\Release\Model.XML
+C:\git\PolyglotWpfMvvmTemplate\src\Model\bin\Release\Model.dll
+C:\git\PolyglotWpfMvvmTemplate\src\Model\bin\Release\Model.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\Model\obj\Release\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\src\Model\obj\Release\Model.dll
+C:\git\PolyglotWpfMvvmTemplate\src\Model\obj\Release\Model.pdb

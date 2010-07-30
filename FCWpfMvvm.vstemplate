@@ -1,0 +1,28 @@
+<VSTemplate Version="2.0.0" Type="ProjectGroup"
+    xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+    <TemplateData>
+        <Name>F#/C# WPF MVVM Application</Name>
+        <Description>WPF MVVM Application with a C# View project and F# viewmodel, model, repository, and IoC Container projects</Description>
+        <Icon>__TemplateIcon.ico</Icon>
+        <ProjectType>FSharp</ProjectType>
+    </TemplateData>
+    <TemplateContent>
+        <ProjectCollection>
+            <ProjectTemplateLink ProjectName="Model">
+                src\Model\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="Repository">
+                src\Repository\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="ViewModel">
+                src\ViewModel\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="FSharpIoC">
+                src\FSharpIoC\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="View">
+                src\View\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+        </ProjectCollection>
+    </TemplateContent>
+</VSTemplate>

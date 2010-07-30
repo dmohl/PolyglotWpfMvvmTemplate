@@ -1,0 +1,6 @@
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\bin\Release\FSharpIoC.XML
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\bin\Release\FSharpIoC.dll
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\bin\Release\FSharpIoC.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\obj\Release\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\obj\Release\FSharpIoC.dll
+C:\git\PolyglotWpfMvvmTemplate\src\FSharpIoC\obj\Release\FSharpIoC.pdb

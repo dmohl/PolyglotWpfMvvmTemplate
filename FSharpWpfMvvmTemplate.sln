@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWpfMvvmTemplate.ViewModel", "src\FSharpWpfMvvmTemplate.ViewModel\FSharpWpfMvvmTemplate.ViewModel.fsproj", "{622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ViewModel", "src\ViewModel\ViewModel.fsproj", "{622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWpfMvvmTemplate.Model", "src\FSharpWpfMvvmTemplate.Model\FSharpWpfMvvmTemplate.Model.fsproj", "{E3081F02-F50C-4923-984A-4D17BFE0DDA8}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Model", "src\Model\Model.fsproj", "{E3081F02-F50C-4923-984A-4D17BFE0DDA8}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpIoC", "src\FSharpIoC\FSharpIoC.fsproj", "{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmTemplate.View", "src\WpfMvvmTemplate.View\WpfMvvmTemplate.View.csproj", "{172C187F-E7DC-42D3-BA6A-60C84D206C8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "src\View\View.csproj", "{172C187F-E7DC-42D3-BA6A-60C84D206C8F}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpWpfMvvmTemplate.Repository", "src\FSharpWpfMvvmTemplate.Repository\FSharpWpfMvvmTemplate.Repository.fsproj", "{6CD2C943-120B-4346-9340-A9CF6050FBF6}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Repository", "src\Repository\Repository.fsproj", "{6CD2C943-120B-4346-9340-A9CF6050FBF6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIX", "VSIX\VSIX.csproj", "{47FC9AD9-F7AB-4191-8D03-401D4A5A2070}"
 EndProject

@@ -1,0 +1,22 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Model</Name>
+    <Description>F# WPF MVVM Model</Description>
+    <ProjectType>FSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Model</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Model.fsproj" File="Model.fsproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="Expense.fs">Expense.fs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseReport.fs">ExpenseReport.fs</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

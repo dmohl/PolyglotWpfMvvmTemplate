@@ -1,0 +1,15 @@
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\ViewModel.XML
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\ViewModel.dll
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\ViewModel.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\FSharpIoC.dll
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Model.dll
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Repository.dll
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\FSharpIoC.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\FSharpIoC.xml
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Model.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Model.xml
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Repository.pdb
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\bin\Release\Repository.xml
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\obj\Release\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\obj\Release\ViewModel.dll
+C:\git\PolyglotWpfMvvmTemplate\src\ViewModel\obj\Release\ViewModel.pdb

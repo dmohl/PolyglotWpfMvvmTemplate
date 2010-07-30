@@ -1,2 +1,6 @@
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\PolyglotWpfMvvmTemplate\1.0\\extension.vsixmanifest
 C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\PolyglotWpfMvvmTemplate\1.0\ProjectTemplates\\PolyglotWpfMvvm.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# WPF MVVM Template\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F#\C# WPF MVVM Template\1.0\ProjectTemplates\\FCWpfMvvm.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# WPF MVVM Template\1.0\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# WPF MVVM Template\1.0\ProjectTemplates\\FCWpfMvvm.zip
