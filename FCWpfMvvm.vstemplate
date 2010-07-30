@@ -8,11 +8,8 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="Model">
-                src\Model\MyTemplate.vstemplate
-            </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="Repository">
-                src\Repository\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="View">
+                src\View\MyTemplate.vstemplate
             </ProjectTemplateLink>
             <ProjectTemplateLink ProjectName="ViewModel">
                 src\ViewModel\MyTemplate.vstemplate
@@ -20,8 +17,11 @@
             <ProjectTemplateLink ProjectName="FSharpIoC">
                 src\FSharpIoC\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="View">
-                src\View\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Repository">
+                src\Repository\MyTemplate.vstemplate
+            </ProjectTemplateLink>
+            <ProjectTemplateLink ProjectName="Model">
+                src\Model\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>
