@@ -18,7 +18,6 @@
       <ProjectItem ReplaceParameters="false" TargetFileName="RelayCommand.fs">RelayCommand.fs</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="ViewModelBase.fs">ViewModelBase.fs</ProjectItem>
       <ProjectItem ReplaceParameters="false" TargetFileName="ExpenseItHomeViewModel.fs">ExpenseItHomeViewModel.fs</ProjectItem>
-      <ProjectItem ReplaceParameters="false" TargetFileName="MainWindowViewModel.fs">MainWindowViewModel.fs</ProjectItem>
     </Project>
   </TemplateContent>
 </VSTemplate>

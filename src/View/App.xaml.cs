@@ -6,7 +6,6 @@ namespace WpfMvvmTemplate.View
     {
         static App()
         {
-            FSharpIoC.IoC.GetIoC.Register<Repository.ExpenseReportRepository, Repository.ExpenseReportRepository>();
         }
     }
 }

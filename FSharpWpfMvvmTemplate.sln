@@ -5,8 +5,6 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ViewModel", "src\ViewModel\
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Model", "src\Model\Model.fsproj", "{E3081F02-F50C-4923-984A-4D17BFE0DDA8}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpIoC", "src\FSharpIoC\FSharpIoC.fsproj", "{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "src\View\View.csproj", "{172C187F-E7DC-42D3-BA6A-60C84D206C8F}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Repository", "src\Repository\Repository.fsproj", "{6CD2C943-120B-4346-9340-A9CF6050FBF6}"
@@ -43,16 +41,6 @@ Global
 		{E3081F02-F50C-4923-984A-4D17BFE0DDA8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E3081F02-F50C-4923-984A-4D17BFE0DDA8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E3081F02-F50C-4923-984A-4D17BFE0DDA8}.Release|x86.ActiveCfg = Release|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}.Release|x86.ActiveCfg = Release|Any CPU
 		{172C187F-E7DC-42D3-BA6A-60C84D206C8F}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{172C187F-E7DC-42D3-BA6A-60C84D206C8F}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
 		{172C187F-E7DC-42D3-BA6A-60C84D206C8F}.Debug|Mixed Platforms.Build.0 = Debug|x86

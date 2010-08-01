@@ -1,11 +1,8 @@
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\View.exe
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\View.pdb
-C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\FSharpIoC.dll
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\Model.dll
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\Repository.dll
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\ViewModel.dll
-C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\FSharpIoC.pdb
-C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\FSharpIoC.xml
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\Model.pdb
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\Model.xml
 C:\git\PolyglotWpfMvvmTemplate\src\View\bin\Release\Repository.pdb

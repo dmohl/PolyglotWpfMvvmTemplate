@@ -47,14 +47,8 @@
     <Compile Include="RelayCommand.fs" />
     <Compile Include="ViewModelBase.fs" />
     <Compile Include="ExpenseItHomeViewModel.fs" />
-    <Compile Include="MainWindowViewModel.fs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FSharpIoC\FSharpIoC.fsproj">
-      <Name>FSharpIoC</Name>
-      <Project>{d2082633-68ca-4c7e-9cf7-7ca94cf86ace}</Project>
-      <Private>True</Private>
-    </ProjectReference>
     <ProjectReference Include="..\Model\Model.fsproj">
       <Name>Model</Name>
       <Project>{e3081f02-f50c-4923-984a-4d17bfe0dda8}</Project>

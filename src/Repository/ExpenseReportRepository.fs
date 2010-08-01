@@ -3,7 +3,7 @@
 open FSharpWpfMvvmTemplate.Model
 
 type ExpenseReportRepository() =
-    member x.GetAllExpenseReports() =
+    member x.GetAll() =
         seq{ yield {Name="Mike" 
                     Department="Legal" 
                     ExpenseLineItems = 

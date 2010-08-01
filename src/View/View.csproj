@@ -107,10 +107,6 @@
     <Resource Include="watermark.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FSharpIoC\FSharpIoC.fsproj">
-      <Project>{D2082633-68CA-4C7E-9CF7-7CA94CF86ACE}</Project>
-      <Name>FSharpIoC</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Model\Model.fsproj">
       <Project>{E3081F02-F50C-4923-984A-4D17BFE0DDA8}</Project>
       <Name>Model</Name>

@@ -13,11 +13,10 @@ type ExpenseItHomeViewModel(expenseReportRepository : ExpenseReportRepository)  
     inherit ViewModelBase()
     let mutable selectedExpenseReport = 
         {Name=""; Department=""; ExpenseLineItems = []}
-    new () = ExpenseItHomeViewModel(
-                  FSharpIoC.IoC.GetIoC.Resolve<ExpenseReportRepository>())
+    new () = ExpenseItHomeViewModel(new ExpenseReportRepository())
     member x.ExpenseReports = 
         new ObservableCollection<ExpenseReport>(
-            expenseReportRepository.GetAllExpenseReports())
+            expenseReportRepository.GetAll())
     member x.ApproveExpenseReportCommand = 
         new RelayCommand ((fun canExecute -> true), (fun action -> x.ApproveExpenseReport)) 
     member x.SelectedExpenseReport 
