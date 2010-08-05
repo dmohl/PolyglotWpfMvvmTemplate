@@ -1,8 +1,8 @@
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
     <TemplateData>
-        <Name>F# and C# WPF Application (MVVM)</Name>
-        <Description>WPF MVVM Application with a C# View project and F# viewmodel, model, and repository</Description>
+        <Name>F# and C# Windows Application (WPF, MVVM)</Name>
+        <Description>F# and C# Windows Application (WPF, MVVM)</Description>
         <Icon>__TemplateIcon.ico</Icon>
         <ProjectType>FSharp</ProjectType>
     </TemplateData>

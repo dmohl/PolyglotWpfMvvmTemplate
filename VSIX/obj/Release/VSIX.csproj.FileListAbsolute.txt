@@ -6,3 +6,4 @@ C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\PolyglotWpfMvvm.pdb
 C:\git\PolyglotWpfMvvmTemplate\VSIX\obj\Release\extension.vsixmanifest
 C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ExpenseItScreenShot.png
 C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ProjectTemplates\WPF\FCWpfMvvm.zip
+C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\MicrosoftPublicLicense.txt
