@@ -14,20 +14,15 @@
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="0" fromTop="0" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:MainWindow.xaml" caret="240" fromTop="2" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="614" fromTop="19" />
-      <File id="D2082633-68CA-4C7E-9CF7-7CA94CF86ACE/f:FSharpIoC.fs" caret="1495" fromTop="32" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:MainWindowViewModel.fs" caret="0" fromTop="0" />
       <File id="6CD2C943-120B-4346-9340-A9CF6050FBF6/f:ExpenseReportRepository.fs" caret="501" fromTop="11" />
       <File id="E3081F02-F50C-4923-984A-4D17BFE0DDA8/f:ExpenseReport.fs" caret="151" fromTop="5" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="3012" fromTop="4" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="198" fromTop="6" />
+      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="137" fromTop="7" />
+      <File id="47FC9AD9-F7AB-4191-8D03-401D4A5A2070/f:source.extension.vsixmanifest" caret="1279" fromTop="23" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="134" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="485" fromTop="11" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ViewModelBase.fs" caret="241" fromTop="2" />
-      <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ViewModelBase.fs" caret="510" fromTop="7" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="458" fromTop="3" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="5000" fromTop="9" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="2114" fromTop="34" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="770" fromTop="34" />
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:App.xaml.cs" caret="229" fromTop="4" />
@@ -53,6 +48,11 @@
       <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="3012" fromTop="4" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="1065" fromTop="8" />
       <File id="622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A/f:ExpenseItHomeViewModel.fs" caret="58" fromTop="2" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="17" fromTop="0" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1359" fromTop="12" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="2164" fromTop="16" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="782" fromTop="18" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="782" fromTop="1" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

@@ -22,4 +22,9 @@
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>
+    <WizardExtension>
+		<Assembly>FSCSWpfTemplateWizard, Version=0.0.0.0, Culture=neutral, PublicKeyToken=ba79043a32149735</Assembly>
+		<FullClassName>FSCSWpfTemplateWizard.TemplateWizard</FullClassName>
+    </WizardExtension>		
+
 </VSTemplate>

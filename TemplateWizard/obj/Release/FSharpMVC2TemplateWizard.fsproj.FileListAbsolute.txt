@@ -1,0 +1,6 @@
+C:\git\FSharpMVC2Starter\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\git\FSharpMVC2Starter\TemplateWizard\bin\Release\FSharpMVC2TemplateWizard.dll
+C:\git\FSharpMVC2Starter\TemplateWizard\bin\Release\FSharpMVC2TemplateWizard.pdb
+C:\git\FSharpMVC2Starter\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\FSharpMVC2Starter\TemplateWizard\obj\Release\FSharpMVC2TemplateWizard.dll
+C:\git\FSharpMVC2Starter\TemplateWizard\obj\Release\FSharpMVC2TemplateWizard.pdb

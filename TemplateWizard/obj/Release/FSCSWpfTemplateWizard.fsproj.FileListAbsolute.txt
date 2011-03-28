@@ -1,0 +1,6 @@
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSCSWpfTemplateWizard.dll
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSCSWpfTemplateWizard.pdb
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\ResolveAssemblyReference.cache
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.dll
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.pdb
