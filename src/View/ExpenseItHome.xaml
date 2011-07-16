@@ -3,7 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-             xmlns:ViewModel="clr-namespace:FSharpWpfMvvmTemplate.ViewModel;assembly=ViewModel" mc:Ignorable="d" 
+             xmlns:ViewModel="clr-namespace:FSharpWpfMvvmTemplate.ViewModel;assembly=App" 
+             xmlns:Behavior="clr-namespace:FSharpWpfMvvmTemplate.Behavior;assembly=App"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     <UserControl.DataContext>
         <ViewModel:ExpenseItHomeViewModel></ViewModel:ExpenseItHomeViewModel>
@@ -14,6 +17,7 @@
     <Grid Margin="10,0,10,10" VerticalAlignment="Stretch">
 
         <Grid.Resources>
+            <Behavior:StringExistsToVisibilityConverter x:Key="StringExistsToVisibility"/>
             <!-- Name item template -->
             <DataTemplate x:Key="nameItemTemplate">
                 <Label Content="{Binding Path=Name}"/>
@@ -26,7 +30,6 @@
             <DataTemplate x:Key="amountItemTemplate">
                 <Label Content="{Binding Path=ExpenseAmount}"/>
             </DataTemplate>
-
         </Grid.Resources>
 
         <Grid.Background>
@@ -98,7 +101,27 @@
                 </DataGrid>
             </Grid>
         </Grid>
-        <Button Grid.Row="2" Command="{Binding ApproveExpenseReportCommand}" Style="{StaticResource buttonStyle}" Grid.Column="1" Margin="0,10,53,0">Approve</Button>
+        <Button Grid.Row="2"  Command="{Binding RejectExpenseReportCommand}" Style="{StaticResource buttonStyle}" Grid.Column="0" Margin="0,10,0,0" Content="Reject">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <Behavior:EventToCommand Command="{Binding MouseEnterButtonCommand}" CommandParameter="Reject" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="MouseLeave">
+                    <Behavior:EventToCommand Command="{Binding MouseLeaveButtonCommand}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <Button Grid.Row="2" Command="{Binding ApproveExpenseReportCommand}" Style="{StaticResource buttonStyle}" Content="Approve"
+                Grid.Column="1" Margin="0,10,53,0">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseEnter">
+                    <Behavior:EventToCommand Command="{Binding MouseEnterButtonCommand}" CommandParameter="Approve" />
+                </i:EventTrigger>
+                <i:EventTrigger EventName="MouseLeave">
+                    <Behavior:EventToCommand Command="{Binding MouseLeaveButtonCommand}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </Button>
+        <TextBlock Grid.Row="3" HorizontalAlignment="Center" Margin="0,10,0,0" FontSize="12" FontWeight="Bold" Grid.ColumnSpan="2" Text="{Binding LastApprovalDisplayMessage}" Visibility="{Binding Path=LastApprovalDisplayMessage, Converter={StaticResource StringExistsToVisibility}}" />
     </Grid>
-
 </UserControl>

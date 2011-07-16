@@ -38,6 +38,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Interactivity, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -107,17 +108,9 @@
     <Resource Include="watermark.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Model\Model.fsproj">
-      <Project>{E3081F02-F50C-4923-984A-4D17BFE0DDA8}</Project>
-      <Name>Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Repository\Repository.fsproj">
-      <Project>{6CD2C943-120B-4346-9340-A9CF6050FBF6}</Project>
-      <Name>Repository</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ViewModel\ViewModel.fsproj">
-      <Project>{622F59E3-CD2A-4B26-9CD9-EEEB2CF5148A}</Project>
-      <Name>ViewModel</Name>
+    <ProjectReference Include="..\App\App.fsproj">
+      <Project>{30597BE9-08F8-4832-8AB7-009C00A6A2F2}</Project>
+      <Name>App</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
