@@ -9,10 +9,9 @@
   <RecentFiles>
     <RecentFiles>
       <File id="47FC9AD9-F7AB-4191-8D03-401D4A5A2070/f:source.extension.vsixmanifest" caret="1279" fromTop="23" />
-      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1982" fromTop="10" />
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:Assembly.fs" caret="1183" fromTop="5" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="228" fromTop="0" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="5065" fromTop="8" />
+      <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:App.fsproj/l:C!?git?PolyglotWpfMvvmTemplate?src?App?App.fsproj" caret="393" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="17" fromTop="0" />
@@ -23,12 +22,6 @@
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:Assembly.fs" caret="550" fromTop="13" />
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:Assembly.fs" caret="1469" fromTop="13" />
       <File id="BD7AF5DA-25B8-41FA-A0E8-7A277BD65673/f:TemplateWizard.fs" caret="1817" fromTop="10" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ApplicationResources.xaml" caret="146" fromTop="2" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="551" fromTop="7" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="5269" fromTop="3" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="5565" fromTop="7" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="6905" fromTop="7" />
-      <File id="172C187F-E7DC-42D3-BA6A-60C84D206C8F/f:ExpenseItHome.xaml" caret="5156" fromTop="8" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
