@@ -5,7 +5,6 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:ViewModel="clr-namespace:FSharpWpfMvvmTemplate.ViewModel;assembly=App" 
              xmlns:Behavior="clr-namespace:FSharpWpfMvvmTemplate.Behavior;assembly=App"
-             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     <UserControl.DataContext>
@@ -95,12 +94,16 @@
                 <!-- Expense type and Amount table -->
                 <DataGrid ItemsSource="{Binding Path=ExpenseLineItems}" ColumnHeaderStyle="{StaticResource columnHeaderStyle}" AutoGenerateColumns="False" RowHeaderWidth="0" Margin="0,0,-139,0">
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="ExpenseType" Binding="{Binding Path=ExpenseType}"  />
-                        <DataGridTextColumn Header="Amount" Binding="{Binding Path=ExpenseAmount}" />
+                        <DataGridTextColumn Header="ExpenseType" Binding="{Binding Path=ExpenseType}" IsReadOnly="True"  />
+                        <DataGridTextColumn Header="Amount" Binding="{Binding Path=ExpenseAmount}" IsReadOnly="True" />
                     </DataGrid.Columns>
                 </DataGrid>
             </Grid>
         </Grid>
+        <!-- This can be used for the EventToCommand example if Expression Blend is installed
+             Note: You should also add the following the top of this file: 
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" -->
+        <!-- 
         <Button Grid.Row="2"  Command="{Binding RejectExpenseReportCommand}" Style="{StaticResource buttonStyle}" Grid.Column="0" Margin="0,10,0,0" Content="Reject">
             <i:Interaction.Triggers>
                 <i:EventTrigger EventName="MouseEnter">
@@ -121,7 +124,7 @@
                     <Behavior:EventToCommand Command="{Binding MouseLeaveButtonCommand}" />
                 </i:EventTrigger>
             </i:Interaction.Triggers>
-        </Button>
+        </Button> -->
         <TextBlock Grid.Row="3" HorizontalAlignment="Center" Margin="0,10,0,0" FontSize="12" FontWeight="Bold" Grid.ColumnSpan="2" Text="{Binding LastApprovalDisplayMessage}" Visibility="{Binding Path=LastApprovalDisplayMessage, Converter={StaticResource StringExistsToVisibility}}" />
     </Grid>
 </UserControl>

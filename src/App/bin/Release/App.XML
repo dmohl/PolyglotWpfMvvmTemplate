@@ -63,50 +63,6 @@
 <member name="">
 
 </member>
-<member name="P:FSharpWpfMvvmTemplate.Behavior.EventToCommand.CommandParameter(System.Object)">
-<summary>
- Get/Set the CommandParameter 
-</summary>
-</member>
-<member name="P:FSharpWpfMvvmTemplate.Behavior.EventToCommand.Command(System.Object)">
-<summary>
- Set the command dependency property
- Set the command parameter dependency property
- Get/Set the Command 
-</summary>
-</member>
-<member name="P:FSharpWpfMvvmTemplate.Behavior.EventToCommand.CommandParameter">
-<summary>
- Get/Set the CommandParameter 
-</summary>
-</member>
-<member name="P:FSharpWpfMvvmTemplate.Behavior.EventToCommand.Command">
-<summary>
- Set the command dependency property
- Set the command parameter dependency property
- Get/Set the Command 
-</summary>
-</member>
-<member name="M:FSharpWpfMvvmTemplate.Behavior.EventToCommand.Invoke(System.Object)">
-<summary>
- Implement the Invoke method from TriggerAction to execute the command
-</summary>
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
-<member name="">
-
-</member>
 <member name="T:FSharpWpfMvvmTemplate.Behavior.StringExistsToVisibilityConverter">
 <summary>
  Returns Visibility.Visible if the string is not null or empty

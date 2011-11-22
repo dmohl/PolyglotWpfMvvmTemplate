@@ -1,7 +1,6 @@
 ﻿<ResourceDictionary
   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-  xmlns:ViewModel="clr-namespace:FSharpWpfMvvmTemplate.ViewModel;assembly=ViewModel" >
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
     <Style x:Key="headerTextStyle">
         <Setter Property="Label.VerticalAlignment" Value="Center"></Setter>
         <Setter Property="Label.FontFamily" Value="Trebuchet MS"></Setter>
