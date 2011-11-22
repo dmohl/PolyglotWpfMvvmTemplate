@@ -9,6 +9,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using FSharpWpfMvvmTemplate.Behavior;
+using FSharpWpfMvvmTemplate.ViewModel;
 using System;
 using System.Diagnostics;
 using System.Windows;
