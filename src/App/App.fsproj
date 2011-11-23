@@ -59,6 +59,7 @@
     </Reference>
     $else$
     <Reference Include="FSharp.Core">
+      <Private>True</Private>
     </Reference>
     $endif$
     <Reference Include="PresentationCore" />
