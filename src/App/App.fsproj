@@ -11,7 +11,7 @@
     <AssemblyName>App</AssemblyName>
     <TargetFrameworkVersion>v$targetframeworkversion$</TargetFrameworkVersion>
     <Name>App</Name>
-    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{f2a71f9b-5d33-465a-a702-920d77279786}</ProjectTypeGuids>
+    <!--<ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{f2a71f9b-5d33-465a-a702-920d77279786}</ProjectTypeGuids>-->
     <!--<ProjectTypeGuids>{5B89FCC2-C9F6-49a8-8F8D-EDDCC3FDC9E9};{f2a71f9b-5d33-465a-a702-920d77279786}</ProjectTypeGuids>-->
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
