@@ -42,6 +42,7 @@
   <ItemGroup>
     <Reference Include="EnvDTE">
       <HintPath>..\lib\EnvDTE.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.VisualStudio.TemplateWizardInterface">
       <HintPath>..\lib\Microsoft.VisualStudio.TemplateWizardInterface.dll</HintPath>
@@ -53,6 +54,7 @@
     <Reference Include="System.Numerics" />
     <Reference Include="VSLangProj">
       <HintPath>..\lib\VSLangProj.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
