@@ -6,3 +6,5 @@ C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.pdb
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\EnvDTE.dll
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\VSLangProj.dll
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.dll
+C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.xml
