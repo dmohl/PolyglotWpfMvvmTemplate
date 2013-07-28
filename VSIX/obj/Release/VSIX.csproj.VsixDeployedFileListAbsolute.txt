@@ -87,3 +87,13 @@ C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Dan
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.10\\VSLangProj.dll
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.10\\stdole.dll
 C:\Users\Daniel Mohl\AppData\Local\Microsoft\VisualStudio\10.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.10\\FSCSWpfTemplateWizard.pdb
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\FSCSWpfTemplateWizard.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\extension.vsixmanifest
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\ExpenseItScreenShot.png
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\MicrosoftPublicLicense.txt
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\ProjectTemplates\WPF\\FCWpfMvvm.zip
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\EnvDTE.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\FSharp.Core.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\VSLangProj.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\stdole.dll
+C:\Users\dmohl\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Daniel Mohl\F# and C# Win App (WPF, MVVM)\1.11\\FSCSWpfTemplateWizard.pdb

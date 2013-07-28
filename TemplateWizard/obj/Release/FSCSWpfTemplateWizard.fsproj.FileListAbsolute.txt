@@ -8,3 +8,15 @@ C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\EnvDTE.dll
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\VSLangProj.dll
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.dll
 C:\git\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.xml
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\TemplateWizard.XML
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSCSWpfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSCSWpfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\EnvDTE.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\VSLangProj.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\EnvDTE.xml
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\FSharp.Core.xml
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\bin\Release\VSLangProj.xml
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.fsprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\TemplateWizard\obj\Release\FSCSWpfTemplateWizard.pdb

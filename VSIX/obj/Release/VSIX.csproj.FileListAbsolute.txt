@@ -9,3 +9,14 @@ C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ProjectTemplates\WPF\FCWpfMvvm.z
 C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\MicrosoftPublicLicense.txt
 C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\FSCSWpfTemplateWizard.dll
 C:\git\PolyglotWpfMvvmTemplate\VSIX\bin\Release\FSCSWpfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ExpenseItScreenShot.png
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\MicrosoftPublicLicense.txt
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\ProjectTemplates\WPF\FCWpfMvvm.zip
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\PolyglotWpfMvvm.vsix
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\extension.vsixmanifest
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\FSCSWpfTemplateWizard.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\bin\Release\FSCSWpfTemplateWizard.pdb
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\obj\Release\VSIX.csprojResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\obj\Release\PolyglotWpfMvvm.dll
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\obj\Release\PolyglotWpfMvvm.pdb
+C:\Users\dmohl\Documents\GitHub\PolyglotWpfMvvmTemplate\VSIX\obj\Release\extension.vsixmanifest
